@@ -1,3 +1,4 @@
 # Learning R
-Learning about R
--> Linha teste
+Atividade do capítulo 3 
+Aluno: Pedro de Oliveira Nielson
+RA: 2017011550
