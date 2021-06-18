@@ -3,7 +3,7 @@
 - Aluno: Pedro de Oliveira Nielson
 - RA: 2017011550
 
-## Gráficos gerados no exercício
+## Gráficos gerados no exercício  1
 
 1. Scatter-plot da altura em cm dos jogadores registrados na NBA
 <br> <br>
